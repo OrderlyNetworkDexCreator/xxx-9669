@@ -3,13 +3,12 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 46 121 220;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 81 119 210;
-  --oui-color-primary-contrast: 255 255 255;
+  --oui-color-primary: 132 210 78;
+  --oui-color-primary-light: 173 228 113;
+  --oui-color-primary-darken: 90 193 60;
 
-  --oui-color-link: 189 107 237;
-  --oui-color-link-light: 217 152 250;
+  --oui-color-link: 255 196 122;
+  --oui-color-link-light: 255 222 173;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
@@ -30,31 +29,31 @@
   --oui-color-warning-darken: 255 152 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 36 32 47;
-  --oui-color-fill-active: 40 46 58;
+  --oui-color-fill: 93 83 123;
+  --oui-color-fill-active: 88 78 118;
 
-  --oui-color-base-1: 78 71 108;
-  --oui-color-base-2: 67 61 94;
-  --oui-color-base-3: 56 52 81;
-  --oui-color-base-4: 48 44 71;
-  --oui-color-base-5: 42 38 63;
-  --oui-color-base-6: 35 31 56;
-  --oui-color-base-7: 62 57 86;
-  --oui-color-base-8: 29 26 38;
-  --oui-color-base-9: 22 20 28;
-  --oui-color-base-10: 15 14 20;
+  --oui-color-base-1: 176 164 196;
+  --oui-color-base-2: 159 147 180;
+  --oui-color-base-3: 142 132 164;
+  --oui-color-base-4: 126 118 149;
+  --oui-color-base-5: 111 105 135;
+  --oui-color-base-6: 96 93 122;
+  --oui-color-base-7: 74 68 109;
+  --oui-color-base-8: 57 53 91;
+  --oui-color-base-9: 42 38 63;
+  --oui-color-base-10: 29 26 38;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
   --oui-color-trading-loss: 245 71 92;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 46 204 113;
+  --oui-color-trading-profit: 34 217 145;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 0 97;
-  --oui-gradient-primary-end: 189 107 237;
+  --oui-gradient-primary-start: 173 228 113;
+  --oui-gradient-primary-end: 132 210 78;
 
   --oui-gradient-secondary-start: 81 42 121;
   --oui-gradient-secondary-end: 176 132 233;
@@ -65,8 +64,8 @@
   --oui-gradient-danger-start: 153 24 76;
   --oui-gradient-danger-end: 245 97 139;
 
-  --oui-gradient-brand-start: 231 219 249;
-  --oui-gradient-brand-end: 159 107 225;
+  --oui-gradient-brand-start: 247 225 208;
+  --oui-gradient-brand-end: 230 193 144;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
